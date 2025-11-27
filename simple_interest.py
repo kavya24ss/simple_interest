@@ -8,7 +8,7 @@ else:
     principal=1000.0
     rate=5.0
     time=10
-simple_interest=(principal * rate * time)100
+simple_interest=(principal * rate * time)/100
 print("principal Amount is",principal)
 print("rate of interest is",rate)
 print("time period is",time)
