@@ -12,4 +12,4 @@ simple_interest=(principal * rate * time) / 100
 print("principal Amount is",principal)
 print("rate of interest is",rate)
 print("time period is",time)
-print("simple interest is",simple_interst)
+print("simple interest is",simple_interest)
